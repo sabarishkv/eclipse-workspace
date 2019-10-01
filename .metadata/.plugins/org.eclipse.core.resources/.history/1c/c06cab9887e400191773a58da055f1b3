@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+public class Floatvalue {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		System.out.println("Enter an intiger value");
+		int i = input.nextInt();
+		System.out.println("value of i=="+i );
+		
+		// TODO Auto-generated method stub
+
+	}
+
+}

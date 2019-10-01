@@ -1,0 +1,23 @@
+import java.io.InputStream;
+
+public class Allprime {
+
+	public Allprime(InputStream in) {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args, Object input) {
+		
+         Allprime number= new Allprime(System.in);
+        System.out.println("give the value of number");
+        float i = input.nextfloat
+        
+         
+		System.out.println("number"+ i);
+		
+		
+		// TODO Auto-generated method stub
+
+	}
+
+}

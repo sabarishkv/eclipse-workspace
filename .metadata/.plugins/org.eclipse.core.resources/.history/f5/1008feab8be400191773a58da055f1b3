@@ -1,0 +1,12 @@
+package webdriver;
+
+public class Checkgit {
+
+	public static void main(String[] args) {
+		System.out.prntln("Push to GIT ")
+		// TODO Auto-generated method stub
+		
+
+	}
+
+}
