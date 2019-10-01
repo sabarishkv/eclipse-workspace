@@ -11,7 +11,7 @@ public class Floatvalue {
 		System.out.println("Enter an int value ");
 		int i = ivalue.nextInt();
 		System.out.println("value of i=="+i );
-		System.out.println("Name is sabarish kanumuri");
+		System.out.println("Name is sabarish kanumuri);
 		// TODO Auto-generated method stub
 
 	}
